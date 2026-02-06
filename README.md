@@ -102,7 +102,8 @@ http://localhost:8000/docs
 ```bash
 Clinical-RAG-QA-system/
 │
-├── app.py                     # Gradio UI entrypoint
+├── app_gradio.py                     # Gradio UI entrypoint
+├── api.py                            # FastAPI endpoints
 ├── README.md                  
 ├── requirements.txt
 ├── .gitignore
