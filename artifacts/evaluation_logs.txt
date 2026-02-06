@@ -1,0 +1,1418 @@
+--- CLINICAL RAG EVALUATION LOG ---
+q1) What was the primary outcome for the original Diabetes Prevention Program (DPP)?
+answer:  Answer: The primary outcome for the original Diabetes Prevention Program (DPP) was the development of diabetes, defined by 1997 ADA criteria.
+context: was unknown. Moreover, determining whether the delay or prevention of diabetes would 
+translate into a decrease in retinopathy, nephropathy, neuropathy, and cardiovascular disease, all 
+of which require more years to develop than the DPP period of study, was critical to establish the 
+true impact of the DPP on public health.  
+The long-term follow-up study of the DPP, entitled the Diabetes Prevention Program 
+Outcomes Study (DPPOS, 2002-2015), was designed to take further advantage of the
+
+morbidity and mortality.  However, the duration of the DPP, planned as a 3-6 year study, did not 
+allow an examination of whether “prevention” or delay of diabetes would translate into a 
+reduction of clinical outcomes that usually require a longer period of time to develop.  Thus, the 
+DPP was designed on the basis of power calculations directed at diabetes prevention4.  The 
+ability to demonstrate a reduction in microvascular complications or “hard” CVD outcomes was
+
+from the beginning of DPP. 
+The cohort of participants for this analysis were a subset of the original DPP study 
+population, and as such were no longer “randomized”, but rather selected by having survived 
+DPP without developing diabetes.  Beyond that selection, each participant was included in the 
+group to which s/he was randomly assigned, regardless of compliance with study treatment. The 
+number of participants who had not developed diabetes at DPP study end was 870 in the
+
+1981. 
+4. Diabetes Prevention Program Research Group. The Diabetes Prevention 
+Program. Design and methods for a clinical trial in the prevention of type 2 
+diabetes. Diabetes Care. 1999;22(4):623-634. 
+5. The Diabetes Prevention Program Research Group. The Diabetes Prevention 
+Program: baseline characteristics of the randomized cohort. The Diabetes 
+Prevention Program Research Group. Diabetes Care. 2000;23(11):1619-1629. 
+6. The Diabetes Prevention Program Research Group. Reduction in the incidence
+
+The Diabetes Prevention Program (DPP, 1994-2001) was a multicenter controlled 
+clinical trial examining the efficacy of an intensive lifestyle intervention or metformin to prevent 
+or delay the development of diabetes in a population selected to be at high risk due to the 
+presence of impaired glucose tolerance (IGT).  Development of diabetes, defined by 1997 ADA 
+criteria, was the primary outcome while cardiovascular disease and its risk factors were
+
+12. Wingard DL, Barrett-Connor E. Heart Disease and Diabetes. In: Harris M, ed. 
+Diabetes in American, 2nd Edition. NIH; 1995:429-448. 
+13. Diabetes Prevention Program Research Group, Knowler WC, Fowler SE, et 
+al. 10-year follow-up of diabetes incidence and weight loss in the Diabetes 
+Prevention Program Outcomes Study. Lancet. 2009;14(374):1677-1686. 
+14. Report of the Expert Committee on the Diagnosis and Classification of 
+Diabetes Mellitus. Diabetes Care. 1997;20(7):1183-97.
+==================================================
+
+q2) Which groups were originally included in the DPP randomization, and which one was discontinued early?
+answer:  Answer: All participants who enrolled in DPPOS were originally included in the DPP randomization except for those assigned to troglitazone, as it was discontinued early due to safety concerns.
+context: included in the group to which s/he was randomly assigned, regardless of compliance with study 
+treatment. Since the participants originally assigned to troglitazone only had a limited exposure 
+to that intervention, owing to the premature termination of the troglitazone arm, were not 
+included in the primary DPP outcome analyses, and are no longer followed in DPPOS, they will 
+not be included in the primary DPPOS Phase 3 analyses.
+
+following characteristics: racial/ethnic origin, sex, and age (<45, 45-<60, 60+). 
+The primary analyses that focused on the intention-to-treat assignment during DPP 
+included all participants in the original DPP placebo, lifestyle and metformin intervention groups 
+who enrolled in DPPOS. Since the participants originally assigned to troglitazone only had a 
+limited exposure to that intervention, owing to the premature termination of the troglitazone arm,
+
+DPP interval, and any subsequent comparison encompassing that interval would not be an 
+independent analysis; and 2) since the interventions were indeed effective over the earlier DPP 
+interval, the cumulative incidence curves may have had too much separation from the early DPP 
+effects to be able come together again, even if the interventions were not effective over the 
+longer term.  The primary analysis from DPPOS baseline did not preclude secondary analyses 
+from the beginning of DPP.
+
+development of diabetes in the lifestyle intervention and metformin-treated groups (58% and 
+31% reduction in hazards, respectively) compared with the placebo treated group, the DPP Data 
+Monitoring Board and NIDDK ended the masked treatment phase of the study in August, 2001, 
+one year earlier than originally planned.
+==================================================
+
+q3) What is the primary objective of DPPOS Phase 3?
+answer:  The primary objective of DPPOS Phase 3 is to evaluate the long-term effects of metformin compared with placebo on the incidence of cancer and of major atherosclerotic cardiovascular events (MACE: fatal and nonfatal myocardial infarction or stroke, and other cardiovascular deaths), with the comparisons of lifestyle compared with placebo, and lifestyle
+context: Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+59
+and ongoing through all phases of DPPOS, the DSMB members review the protocol and study 
+material to ensure the scientific validity of the study and safety of participants.  The DSMB also 
+assesses the performance of the CoC and clinical centers.  Its principal responsibility is to 
+monitor the emerging results to assess treatment effectiveness, or ineffectiveness, and participant
+
+quality.  Highlights of completed analyses related to study papers will be presented as they 
+become available.  During DPPOS Phase 2, there were two formal interim analyses of safety and 
+efficacy pertaining to macrovascular events for purposes of possible "early stopping" of an 
+intervention. The DSMB will develop a safety monitoring plan for DPPOS Phase 3 to include a 
+futility assessment.
+
+The duration of follow-up in the first five years of DPPOS was extended by one year 
+from 5 to 6 years, by NIDDK.  Power calculations were modified based on actual enrollment, 
+and to correspond to the reordering of outcome measures.   
+ 
+The following assumptions were used to make revised estimates of the power of the 
+DPPOS for the Phase 1 primary outcome, development of diabetes: 
+* The study will enroll approximately 900 participants per treatment group
+
+Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+11
+2. 
+OBJECTIVES 
+ 
+2.1. 
+Primary  
+ 
+The primary objective of DPPOS Phase 1 was to evaluate the long-term effects of active 
+DPP interventions on the further development of diabetes. The primary objective of the DPPOS 
+Phase 2 was to evaluate the long-term effects of the DPP interventions (Intensive Lifestyle and 
+Metformin) on the prevalence of the composite diabetes-related microangiopathic and
+
+Metformin) on the prevalence of the composite diabetes-related microangiopathic and 
+neuropathic outcome.   
+The primary objective of the DPPOS Phase 3 is to evaluate the long-term effects of 
+metformin compared with placebo on the incidence of cancer and of major atherosclerotic 
+cardiovascular events (MACE: fatal and nonfatal myocardial infarction or stroke, and other 
+cardiovascular deaths), with the comparisons of lifestyle compared with placebo, and lifestyle
+
+This substitutes for the occurrence of nephropathy at year 11. 
+ 
+DPPOS Phase 3 
+The primary outcome for DPPOS Phase 3 is time to the development of cancer and of 
+major atherosclerotic cardiovascular events (MACE).  The cancer outcome includes the first 
+occurrence of a new cancer diagnosed since DPP randomization and is the primary outcome 
+during the first 5 years of DPPOS Phase 3, while MACE includes any of the following: nonfatal
+==================================================
+
+q4) List the secondary objectives of DPPOS Phase 3.
+answer:  The secondary objectives of DPPOS Phase 3 are to evaluate the long-term effects of DPP interventions on the further development of diabetes, microvascular and selected health outcomes, the established and putative risk factors for those outcomes, and the costs and cost-utility associated with delay or prevention of diabetes.
+context: Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+30
+4. 
+DEFINITION OF OUTCOMES 
+The outcomes for DPPOS Phase 3 are similar to those from DPPOS Phases 1 & 2, 
+except as noted specifically below. 
+ 
+4.1. 
+Primary Outcomes during DPP and DPPOS  
+ 
+4.1.1. Diabetes and Glycemia: OGTT and FPG  
+ 
+The primary outcome for DPP, DPPOS Phase 1 and a secondary outcome for DPPOS
+
+Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+59
+and ongoing through all phases of DPPOS, the DSMB members review the protocol and study 
+material to ensure the scientific validity of the study and safety of participants.  The DSMB also 
+assesses the performance of the CoC and clinical centers.  Its principal responsibility is to 
+monitor the emerging results to assess treatment effectiveness, or ineffectiveness, and participant
+
+Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+11
+2. 
+OBJECTIVES 
+ 
+2.1. 
+Primary  
+ 
+The primary objective of DPPOS Phase 1 was to evaluate the long-term effects of active 
+DPP interventions on the further development of diabetes. The primary objective of the DPPOS 
+Phase 2 was to evaluate the long-term effects of the DPP interventions (Intensive Lifestyle and 
+Metformin) on the prevalence of the composite diabetes-related microangiopathic and
+
+DPP/DPPOS interventions on cancer (first 5 years) and cardiovascular disease (second 5 years), 
+with a particular focus on the effects of the metformin intervention. 
+The secondary objectives of DPPOS Phase 3 are to evaluate the long-term effects of 
+DPP interventions on the further development of diabetes, microvascular and selected health 
+outcomes, the established and putative risk factors for those outcomes, and the costs and cost-
+utility associated with delay or prevention of diabetes.
+
+term CVD. This is a question we will be able to address in DPPOS Phase 3. 
+In summary, further follow-up of DPPOS presents the unique opportunity to evaluate the 
+effects of metformin begun during pre-diabetes vs PLB or ILS on CVD, the effects of ILS on 
+CVD, and associations between T2DM prevention and CVD.  
+ 
+3.3.2. DPPOS Phase 3: Impact of DPP Interventions on Cancer  
+ 
+A focus on cancer is new for DPPOS Phase 3. The randomized metformin exposure
+
+data and results from recent studies. Given our best estimate of the accumulation of events, and 
+using effect sizes of 25 or 30%, we expect to reach the level of required cancer events in the 
+placebo group during the first 5-years of DPPOS Phase 3, and the required MACE events in the 
+placebo group during the second 5-years of DPPOS Phase 3.
+==================================================
+
+q5) Why was it critical to establish a long-term follow-up study like DPPOS after the initial DPP concluded?
+answer:  It was critical to establish a long-term follow-up study like DPPOS after the initial DPP concluded because the Research Group wanted to determine whether the delay or prevention of diabetes would translate into a decrease in retinopathy, nephropathy, neuropathy, and cardiovascular disease, all of which require more years to develop than the DPP period of study. Additionally, they wanted to appreciate the long-term clinical impact of diabetes prevention and increase their understanding of the clinical course of IGT and new-onset type 2 diabetes.
+context: with our obligation to the participants who had made the DPP possible.  Although this decision 
+was not based on any scientific imperative, the Research Group did not think that it would 
+interfere with the follow-up study as designed.  Continuing to apply the DPP interventions 
+during DPPOS was based on the expectation that a positive effect of DPP interventions on long-
+term health outcomes would more likely be obtained if the interventions that were effective in
+
+was unknown. Moreover, determining whether the delay or prevention of diabetes would 
+translate into a decrease in retinopathy, nephropathy, neuropathy, and cardiovascular disease, all 
+of which require more years to develop than the DPP period of study, was critical to establish the 
+true impact of the DPP on public health.  
+The long-term follow-up study of the DPP, entitled the Diabetes Prevention Program 
+Outcomes Study (DPPOS, 2002-2015), was designed to take further advantage of the
+
+At the end of DPP, 99.6% of the study cohort was alive. The entire cohort proved to be 
+remarkably compliant, with 94% retention of volunteers over time, and completion of > 90% of 
+study requirements. Adherence (>80% of assigned medication) to metformin was 72%.  
+ 
+11.2. Study Power 
+ 
+11.2.1. Power for the Development of Diabetes  
+ 
+The duration of follow-up in the first five years of DPPOS was extended by one year
+
+period of the DPP, with a mean follow-up of 2.8 years (range 1.8-4.8 years), precluded an 
+examination of the long-term clinical impact of diabetes prevention.  An appreciation of the 
+long-term clinical impact of diabetes prevention is critical in order to understand the role of the 
+DPP interventions in improving health.  Moreover, the long-term epidemiological follow-up of 
+the DPP cohort would increase our understanding of the clinical course of IGT and new-onset 
+type 2 diabetes.
+==================================================
+
+q6) What were the results of the DPP Phase 1 regarding diabetes incidence reductions?
+answer:  Answer: The primary objective for DPPOS Phase 1 was to compare the durability of the original effect during the DPP, i.e., estimation of the hazard rates for development of diabetes going forward among participants who had not developed diabetes during DPP among those who were randomly assigned to intensive lifestyle changes (ILS), metformin, and placebo (PLB). At year 15 (the end of DPPOS Phase 2), cumulative diabetes incidence was 52% of those originally assigned to ILS, 55% of those originally assigned to MET, and 60% of those originally assigned to PLB.
+context: less than would be predicted despite the majority of each group having made the transition to 
+biochemically diagnosed diabetes.  
+ 
+3.2.4. DPPOS Phase 2 Results: Impact of DPP Interventions on Microvascular Disease 
+ 
+The second question addressed in DPPOS Phase 2 was the long-term clinical impact of 
+having prevented or delayed the onset of diabetes, specifically the effects of DPP interventions 
+on diabetes-related complications.  The ultimate health care benefit of diabetes “prevention” was
+
+2025, the study will have 89% power to detect a 30% hazard risk reduction. Other important 
+secondary comparisons will be lifestyle vs. placebo and metformin vs. lifestyle.  
+ 
+11.3. Analysis 
+ 
+11.3.1. Analysis of Development of Diabetes  
+ 
+The primary objective for DPPOS Phase 1 was to compare the durability of the original 
+effect during the DPP, i.e., estimation of the hazard rates for development of diabetes going 
+forward among participants who had not developed diabetes during DPP among those who
+
+treatment-related differences in diabetes incidence at 10 years (35% reduced ILS vs PLB and 
+18% reduced MET vs PLB)13. This pattern persisted into the second phase of DPPOS (Phase 2, 
+years 10-15 following randomization). At year 15 (the end of DPPOS Phase 2), cumulative 
+diabetes incidence was 52% of those originally assigned to ILS, 55% of those originally assigned 
+to MET and 60% of those originally assigned to PLB. (Figure 3) 
+ 
+Figure 3. Diabetes outcomes in the DPP and DPPOS
+
+different DPP interventions.  (Table 4)  Blood pressure was significantly lower, lipid levels were 
+less atherogenic, and insulin levels were lower in the Lifestyle treatment group, and to a lesser 
+extent with metformin therapy, than in the placebo group. Longer follow-up of the DPP cohort 
+will be highly informative regarding the effects of therapy on clinical outcomes that are likely to 
+take longer to observe than the initial ~15 years of the DPP/DPPOS Phases 1 & 2. Continuation
+
+the effect of race/ethnicity, age, and sex on health outcomes.  
+1.3. 
+ Study Population 
+ 
+All surviving DPP participants, assigned to the original intensive lifestyle, metformin, 
+troglitazone, and placebo groups, whether or not they developed diabetes during the DPP, were 
+eligible and were invited to join DPPOS.  The former troglitazone participants were followed 
+during Phase 1 of DPPOS, but no longer participate as research volunteers in the study.  At the
+
+class offered to all participants. During DPPOS Phases 1 & 2, and Phase 3, metformin was and 
+will be provided to all participants who were receiving metformin treatment in DPP, assuming 
+that HbA1c is <7.0% and the participant has not developed a contraindication or intolerance to 
+metformin, in order to maintain long-term intervention with this agent.  (See section 7.2.2 
+regarding HbA1c ≥ 7.0%.)  The provision of lifestyle training to the DPP PLB group during
+==================================================
+
+q7) Does the protocol state that the placebo group received no intervention during the DPPOS follow-up?
+answer:  No, the protocol does not state that the placebo group received no intervention during the DPPOS follow-up. The protocol states that the placebo group received lifestyle intervention during the DPPOS follow-up.
+context: beginning with protocol version 3.0, all participants will continue their scheduled follow-up 
+visits for the duration of DPPOS regardless of their level of compliance with the assigned 
+treatment.  Outcome and safety assessments will be conducted according to the schedule in 
+section 12. 
+Beginning in study year 13 and continuing in DPPOS Phase 3, in-person annual visits 
+will continue with reduced intensity of outcome measurements according to the outcomes
+
+with our obligation to the participants who had made the DPP possible.  Although this decision 
+was not based on any scientific imperative, the Research Group did not think that it would 
+interfere with the follow-up study as designed.  Continuing to apply the DPP interventions 
+during DPPOS was based on the expectation that a positive effect of DPP interventions on long-
+term health outcomes would more likely be obtained if the interventions that were effective in
+
+included in the group to which s/he was randomly assigned, regardless of compliance with study 
+treatment. Since the participants originally assigned to troglitazone only had a limited exposure 
+to that intervention, owing to the premature termination of the troglitazone arm, were not 
+included in the primary DPP outcome analyses, and are no longer followed in DPPOS, they will 
+not be included in the primary DPPOS Phase 3 analyses.
+
+lifestyle modification reduced the development of diabetes, compared with placebo, in subjects 
+with IGT during a period of intervention averaging 4 years. Owing to the large and statistically 
+significant reduction in development of diabetes in the lifestyle intervention group (58%) and in 
+the metformin-treated group (31%), compared with placebo treatment, the DPP was ended, by 
+consensus of the external Data Monitoring Board, NIDDK, and the Study Group, approximately
+
+data and results from recent studies. Given our best estimate of the accumulation of events, and 
+using effect sizes of 25 or 30%, we expect to reach the level of required cancer events in the 
+placebo group during the first 5-years of DPPOS Phase 3, and the required MACE events in the 
+placebo group during the second 5-years of DPPOS Phase 3.
+
+term health outcomes would more likely be obtained if the interventions that were effective in 
+DPP were maintained to some degree in the DPPOS, recognizing that the DPP placebo group 
+would now receive lifestyle intervention as well.  This design for DPPOS was thought more 
+likely to minimize confounding of the effects of the past DPP interventions through the 
+introduction of non-standardized therapies by participants and their health care providers.
+==================================================
+
+q8) What findings from the UKPDS study support the rationale for the 10-year follow-up in DPPOS?
+answer:  Information not found in protocol.
+context: take longer to observe than the initial ~15 years of the DPP/DPPOS Phases 1 & 2. Continuation 
+of the study in DPPOS Phase 3 presents the unique opportunity to evaluate the effects of MET 
+begun during pre-diabetes vs PLB or ILS on CVD, the effects of ILS on CVD, and associations 
+between T2DM prevention and CVD.  
+ 
+3.3. 
+DPPOS Phase 3 (2015-2025)  
+ 
+ 
+There is a strong rationale for continued follow-up of the DPP/DPPOS cohort. The
+
+At the end of DPP, 99.6% of the study cohort was alive. The entire cohort proved to be 
+remarkably compliant, with 94% retention of volunteers over time, and completion of > 90% of 
+study requirements. Adherence (>80% of assigned medication) to metformin was 72%.  
+ 
+11.2. Study Power 
+ 
+11.2.1. Power for the Development of Diabetes  
+ 
+The duration of follow-up in the first five years of DPPOS was extended by one year
+
+2025, the study will have 89% power to detect a 30% hazard risk reduction. Other important 
+secondary comparisons will be lifestyle vs. placebo and metformin vs. lifestyle.  
+ 
+11.3. Analysis 
+ 
+11.3.1. Analysis of Development of Diabetes  
+ 
+The primary objective for DPPOS Phase 1 was to compare the durability of the original 
+effect during the DPP, i.e., estimation of the hazard rates for development of diabetes going 
+forward among participants who had not developed diabetes during DPP among those who
+
+Retention of participants throughout the study period is key to both the power and 
+generalizability of DPPOS findings.  Retention of DPPOS participants will be encouraged 
+through the provision of social support from DPPOS staff during clinic visits, group meetings, 
+and other incentives.  All participants receive an honorarium, at scheduled visits, in recognition 
+of the time and effort spent in the DPPOS.
+
+There is a strong rationale for continued follow-up of the DPP/DPPOS cohort. The 
+randomized study assignments at baseline provide a unique opportunity to evaluate metformin’s 
+putative effects on CVD and cancer outcomes, which have been proposed in recent years. More 
+generally, the random assignments allow long-term prospective intention-to-treat analyses.  The 
+population has been highly adherent to study procedures and study therapies, and between-group
+==================================================
+
+q9) How is the 'MACE' outcome defined in DPPOS Phase 3?
+answer:  In DPPOS Phase 3, the primary outcome is the time to the development of cancer or major atherosclerotic cardiovascular events (MACE), which includes nonfatal or fatal myocardial infarction or stroke or any cardiovascular death occurring since DPP randomization.
+context: This substitutes for the occurrence of nephropathy at year 11. 
+ 
+DPPOS Phase 3 
+The primary outcome for DPPOS Phase 3 is time to the development of cancer and of 
+major atherosclerotic cardiovascular events (MACE).  The cancer outcome includes the first 
+occurrence of a new cancer diagnosed since DPP randomization and is the primary outcome 
+during the first 5 years of DPPOS Phase 3, while MACE includes any of the following: nonfatal
+
+MACE events are collected at every visit using a standard medical history questionnaire and 
+adjudicated by reviewers who are blinded to treatment assignment. 
+ 
+SECONDARY OUTCOMES (outcomes assessed in Phases 1 & 2 but discontinued in DPPOS 
+Phase 3 are shown in brackets) 
+• Further development of diabetes  
+• Diabetic retinopathy
+
+during the first 5 years of DPPOS Phase 3, while MACE includes any of the following: nonfatal 
+or fatal myocardial infarction or stroke or any cardiovascular death occurring since DPP 
+randomization. The first occurrence of a new MACE event since DPP randomization is the 
+primary outcome during the second 5 years of DPPOS Phase 3.  The occurrence of cancer and 
+MACE events are collected at every visit using a standard medical history questionnaire and
+
+individual elements of the neurologic sensory examination.  
+ 
+4.1.3. Cardiovascular Disease  
+  
+The primary outcome of the second 5-years of DPPOS Phase 3 is the incidence of major 
+cardiovascular disease (MACE).  MACE is defined as the time to first occurrence after DPP 
+randomization of one or more of the following: fatal and non-fatal myocardial infarction and 
+stroke or other cardiovascular death.   
+ The composite diabetes-related cardiovascular disease secondary outcome is defined as
+
+sensation, as recommended in the 2017 ADA Position statement94. The MNSI questionnaire and 
+the monofilament test will be continued, as in past examinations, to allow longitudinal analyses. 
+The principal outcome for DSPN in DPPOS Phase 3 will be defined as the presence of DSPN 
+symptoms (score ≥4 on the MNSI questionnaire)95 or any signs of bilateral DSPN. The signs of 
+bilateral DSPN require abnormal finding on both toes for pinprick testing (score ≥5)96, for
+
+For DPPOS Phase 3, the main composite diabetes-related microangiopathic outcome, 
+now a secondary outcome, is defined as time to first occurrence of nephropathy or retinopathy, 
+the two microvascular disease components that are most objectively measured microvascular 
+complications. Nephropathy is adapted from KDIGO91 for categories of moderately increased 
+albuminuria or moderately to severely decreased eGFR and defined as development of any of the
+==================================================
+
+q10) What are the components of the 'composite diabetes-related microangiopathic and neuropathic outcome' used in Phase 2?
+answer:  The components of the 'composite diabetes-related microangiopathic and neuropathic outcome' used in Phase 2 include: 
+
+1. Nephropathy: increased albuminuria (≥30 mg/gram creatinine, confirmed), or renal dysfunction (end-stage renal disease, dialysis or renal transplant) or eGFR < 45 ml/min/1.73 m2. 
+2. Retinopathy: presence of retinal hard exudates, venous beading, intraretinal hemorrhages, or laser treatment for diabetic retinopathy.
+context: For DPPOS Phase 3, the main composite diabetes-related microangiopathic outcome, 
+now a secondary outcome, is defined as time to first occurrence of nephropathy or retinopathy, 
+the two microvascular disease components that are most objectively measured microvascular 
+complications. Nephropathy is adapted from KDIGO91 for categories of moderately increased 
+albuminuria or moderately to severely decreased eGFR and defined as development of any of the
+
+4.1.2. Composite Diabetes-related Microangiopathic and Neuropathic Outcome 
+ 
+The diabetes-related microangiopathic primary outcome for DPPOS Phase 2 was defined 
+as a composite of the following at the year 11 visit, or if the participant is deceased or lost to 
+follow-up before year 11, as of his/her last assessment: 
+ 
+a. Nephropathy: increased albuminuria (≥30 mg/gram creatinine, confirmed), or renal 
+dysfunction (end-stage renal disease, dialysis or renal transplant) or eGFR < 45  ml
+
+microangiopathy outcome using the global test1  The global test, which gives the component 
+outcomes equal weight, is interpreted as testing for a consistent difference between groups across 
+the component outcomes. 
+The primary analysis for DPPOS Phase 3 will focus on the effects of metformin 
+compared with placebo on the development of a number of diabetes related complications, 
+including cancer and MACE. The primary and secondary outcome analyses will follow the
+
+Metformin) on the prevalence of the composite diabetes-related microangiopathic and 
+neuropathic outcome.   
+The primary objective of the DPPOS Phase 3 is to evaluate the long-term effects of 
+metformin compared with placebo on the incidence of cancer and of major atherosclerotic 
+cardiovascular events (MACE: fatal and nonfatal myocardial infarction or stroke, and other 
+cardiovascular deaths), with the comparisons of lifestyle compared with placebo, and lifestyle
+
+Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+11
+2. 
+OBJECTIVES 
+ 
+2.1. 
+Primary  
+ 
+The primary objective of DPPOS Phase 1 was to evaluate the long-term effects of active 
+DPP interventions on the further development of diabetes. The primary objective of the DPPOS 
+Phase 2 was to evaluate the long-term effects of the DPP interventions (Intensive Lifestyle and 
+Metformin) on the prevalence of the composite diabetes-related microangiopathic and
+==================================================
+
+q11) What is the diagnostic threshold for diabetic retinopathy in DPPOS Phase 3?
+answer:  Answer: In DPPOS Phase 3, the diagnostic threshold for diabetic retinopathy is based on the Early Treatment Diabetic Retinopathy Study (ETDRS) grading system. This includes mild diabetic retinopathy (ETDRS≥35), moderate diabetic retinopathy (ETDRS≥50), severe diabetic retinopathy (ETDRS≥70), and proliferative diabetic retinopathy (ETDRS≥80).
+context: (ETDRS≥20) as used in DPPOS Phase 2 to mild diabetic retinopathy (ETDRS≥35)16 or 
+adjudicated treatment for retinopathy. Macular edema by optical coherence tomography 
+(OCT)92,93 will be a secondary outcome. The ETDRS grade was modified in recognition of the 
+expected increase in time and level of hyperglycemia that will result in more diabetes-specific 
+lesions and to minimize noise from aging related retinal findings. Spectral domain OCT is a
+
+Figure 3. Diabetes outcomes in the DPP and DPPOS 
+ 
+Of note, the diabetes ascertainment methods employed in the DPP/DPPOS identify the 
+transition to diabetes at an earlier stage than is seen in traditional clinical care. The mean fasting
+
+preventing diabetes over 3 years, there would be no compelling reason to stop DPPOS for having 
+demonstrated further benefit.  The assessment of the composite microangiopathy occurred after 
+the year 11 visits.  Therefore, we did not implement a formal statistical monitoring plan for either 
+of these outcomes in DPPOS.  The DSMB reviewed two interim analyses of time to 
+macrovascular event for safety during DPPOS Phase 2. 
+Since the cohort size for DPPOS Phase 3 is fixed, power is driven by the number of
+
+hypothesis is probably the most in vogue and has the most mechanistic data associated with 
+it63,64.  Since glycation occurs not only in red blood cells and hemoglobin, but also in all tissues 
+and circulating proteins exposed to glucose, it should come as no surprise that there may be no 
+specific threshold where one finds diabetic complications; rather, there may be a continuum of 
+risk associated with glycemia, including in the sub-diabetic range. Through studies of pre-
+
+Most reported studies suggest that the risk for CHD in IGT is intermediate between that 
+in the general population and that in diabetic individuals66.  However, some studies have not 
+detected any difference in CHD frequency between normal glucose tolerance (NGT) populations 
+and those with IGT, and others have found differences in men or women only70,71.  Most of these 
+studies were cross-sectional and many of the older surveys did not utilize the WHO diagnostic
+==================================================
+
+q12) How is nephropathy defined for the Phase 3 secondary outcome based on KDIGO categories?
+answer:  Answer: Nephropathy is defined as development of any of the following: albuminuria ≥30 mg/g creatinine in a spot urine collection on 2 consecutive tests or an estimated eGFR <45 ml/min/1.73 m2, based on annual serum creatinine using the CKD-EPI equation15 on 2 consecutive tests, or renal failure (end-stage kidney disease).
+context: For DPPOS Phase 3, the main composite diabetes-related microangiopathic outcome, 
+now a secondary outcome, is defined as time to first occurrence of nephropathy or retinopathy, 
+the two microvascular disease components that are most objectively measured microvascular 
+complications. Nephropathy is adapted from KDIGO91 for categories of moderately increased 
+albuminuria or moderately to severely decreased eGFR and defined as development of any of the
+
+For this set of analyses the pre-specified primary outcome was an aggregate of 
+microvascular diseases, defined as the presence of one or more of nephropathy, retinopathy or 
+neuropathy. Nephropathy was defined as albuminuria ≥30 mg/g creatinine in a spot urine 
+collection on 2 consecutive tests or an estimated eGFR <45 ml/min/1.73 m2, based on annual 
+serum creatinine using the CKD-EPI equation15 on 2 consecutive tests, or renal failure (end-stage
+
+c. Neuropathy: reduction or absence of light touch sensation to monofilament (Semmes-
+Weinstein 10 gram) in either foot (< 8 of 10 applications detected). 
+ 
+If a participant was taking antihypertensive drugs at the last assessment and did not meet 
+the ACR or eGFR criteria at that time, he or she was considered to have reached the 
+nephropathy outcome if the nephropathy criteria were met at 2 consecutive past visits. 
+This substitutes for the occurrence of nephropathy at year 11. 
+ 
+DPPOS Phase 3
+
+individual elements of the neurologic sensory examination.  
+ 
+4.1.3. Cardiovascular Disease  
+  
+The primary outcome of the second 5-years of DPPOS Phase 3 is the incidence of major 
+cardiovascular disease (MACE).  MACE is defined as the time to first occurrence after DPP 
+randomization of one or more of the following: fatal and non-fatal myocardial infarction and 
+stroke or other cardiovascular death.   
+ The composite diabetes-related cardiovascular disease secondary outcome is defined as
+
+This substitutes for the occurrence of nephropathy at year 11. 
+ 
+DPPOS Phase 3 
+The primary outcome for DPPOS Phase 3 is time to the development of cancer and of 
+major atherosclerotic cardiovascular events (MACE).  The cancer outcome includes the first 
+occurrence of a new cancer diagnosed since DPP randomization and is the primary outcome 
+during the first 5 years of DPPOS Phase 3, while MACE includes any of the following: nonfatal
+==================================================
+
+q13) What is the primary difference in the visit schedule between DPPOS Phases 1 & 2 and Phase 3?
+answer:  Information not found in protocol.
+context: take longer to observe than the initial ~15 years of the DPP/DPPOS Phases 1 & 2. Continuation 
+of the study in DPPOS Phase 3 presents the unique opportunity to evaluate the effects of MET 
+begun during pre-diabetes vs PLB or ILS on CVD, the effects of ILS on CVD, and associations 
+between T2DM prevention and CVD.  
+ 
+3.3. 
+DPPOS Phase 3 (2015-2025)  
+ 
+ 
+There is a strong rationale for continued follow-up of the DPP/DPPOS cohort. The
+
+beginning with protocol version 3.0, all participants will continue their scheduled follow-up 
+visits for the duration of DPPOS regardless of their level of compliance with the assigned 
+treatment.  Outcome and safety assessments will be conducted according to the schedule in 
+section 12. 
+Beginning in study year 13 and continuing in DPPOS Phase 3, in-person annual visits 
+will continue with reduced intensity of outcome measurements according to the outcomes
+
+DPPOS, the intervention groups did not differ from the controls in the hazard rates for 
+development of diabetes over the interval from the beginning of DPPOS.  Reasons for comparing 
+across the interval from the start of DPPOS as the primary analysis rather than from the 
+beginning of DPP were: 1) we had already published the comparison of the three groups over the 
+DPP interval, and any subsequent comparison encompassing that interval would not be an
+
+-13.49 
+ 
+ 
+The DPP and DPPOS Phases 1 & 2 had insufficient power to detect an effect of the two 
+active DPP interventions on CVD events owing to the relatively low rate of CVD events during 
+the study.  Although the low event rates of major CVD precluded demonstrating a difference in 
+event rates between the treatment groups, CVD risk factors were variably affected by the 
+different DPP interventions.  (Table 4)  Blood pressure was significantly lower, lipid levels were
+
+cardiovascular deaths), with the comparisons of lifestyle compared with placebo, and lifestyle 
+compared with metformin, important secondary objectives.  Major secondary comparisons will 
+be lifestyle vs. placebo and metformin vs. lifestyle. 
+ 
+2.2. 
+Secondary 
+ 
+The secondary objective of the DPPOS (DPPOS outcomes assessed in Phases 1 & 2 but 
+discontinued in Phase 3 are shown in brackets) is to evaluate the long-term effects of DPP 
+interventions on selected health outcomes including:
+==================================================
+
+q14) How are troglitazone participants handled in the DPPOS Phase 3 analysis?
+answer:  Troglitazone participants are not included in the primary DPPOS Phase 3 analyses since they were not originally part of the primary DPP outcome analyses and have been discontinued from the study. They will, however, be included in secondary analyses exploring the relationship between incident diabetes and determinants of long-term complications of new-onset diabetes and impaired glucose tolerance.
+context: included in the group to which s/he was randomly assigned, regardless of compliance with study 
+treatment. Since the participants originally assigned to troglitazone only had a limited exposure 
+to that intervention, owing to the premature termination of the troglitazone arm, were not 
+included in the primary DPP outcome analyses, and are no longer followed in DPPOS, they will 
+not be included in the primary DPPOS Phase 3 analyses.
+
+during Phase 1 of DPPOS, but no longer participate as research volunteers in the study.  At the 
+time that DPPOS was initiated in September 2002, the mean age of the study population 
+(including the former troglitazone participants) was 55 years, with 68% being women.  Fifty-five 
+percent were Caucasian, 20% African-American, 16% Hispanic American, 5% American Indian, 
+and 4% Asian or Pacific Islander-American.  A total of 2776 participants consented to participate
+
+analyses, treatment assignment during the DPP will be considered a covariate. 
+The former troglitazone participants who continue in the DPPOS through visit year 6 will 
+be included in the "other" outcomes exploring the relationship between incident diabetes and 
+determinants of long-term complications of new-onset diabetes and IGT. No research data will 
+be collected in this group beginning with protocol version 3.0. 
+ 
+11.4. Monitoring and Timing of Analyses
+
+sessions in groups twice yearly through 2014, and DPP metformin participants were provided 
+open label metformin (850 mg bid).  During DPPOS Phase 3, participants will remain in their 
+originally randomized treatment groups, except that those in the original troglitazone group are 
+no longer being followed.  All participants will be offered a single Group Lifestyle (HELP) 
+session annually.  Participants in the original metformin group will continue to receive study
+
++ Carotid ultrasounds were collected during the DPP bridge period as a baseline for DPPOS 
+++ For diabetic participants: HbA1c is collected at Mid-Year visits; the 30’ insulin and 30/120’ glucose collections are discontinued 
++++ The following outcomes are not obtained for participants in the former troglitazone arm: carotid ultrasound, fundus photographs, other chemistries
+==================================================
+
+q15) What are the criteria for suspending the scheduled follow-up protocol?
+answer:  Answer: Suspension of the scheduled follow-up protocol can occur due to voluntary withdrawal by the participant or a condition that makes it unsafe for the participant to continue, as determined by the principal investigator.
+context: Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+41
+ 
+The occurrence or presence of the following will constitute suspension of the scheduled 
+follow-up protocol:  Voluntary withdrawal by the participant, or a condition that, in the opinion 
+of the principal investigator, makes it unsafe for the participant to continue.  Efforts to return 
+participants to an active status will be made regularly, as appropriate. 
+ 
+6.1.4. Home or Telephone Visits
+
+manuals and participant management policies.  The SC will monitor protocol adherence at the 
+clinical centers including proper data generation, recording and transmittal.  Members unable to 
+attend a meeting may designate an alternate to act on their behalf.  The members of the Steering 
+Committee select the Study Chairperson and Vice-Chairperson. 
+Steering Committee recommendations for changes in the Protocol require prior
+
+not be a criterion for exclusion.   
+ 
+5.3. 
+ Procedures for obtaining surrogate consent  
+ 
+The following surrogate consent issues will require approval by local IRBs. Some IRBs 
+may require different procedures for following participants who do not have the capacity to 
+consent. Each clinical center will follow procedures approved by its IRB. Participants who have 
+the capacity to consent will be given the opportunity to decide in advance whether they do or do
+
+Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+50
+become pregnant during the DPPOS will have outcome assessments suspended until 6-8 weeks 
+following delivery. This outcome measure following pregnancy will always be an OGTT.  They 
+will then attend the next regularly scheduled outcome assessment visit based on their original 
+DPPOS follow-up schedule.  Women meeting ADA criteria for diabetes will have reached the 
+DPPOS outcome.
+
+the participant and treatment team will be informed (see section 7.5.6).  Again, to maintain 
+masking, the Coordinating Center will ask for a random repeat FPG on a subset of non-diabetic 
+participants with FPG < 126 mg/dL [7.0 mmol/L]. In years without a scheduled OGTT, if 
+HbA1c ≥6.5% and fasting glucose is <126 mg/dl, a confirmatory OGTT will be performed.  If 
+the OGTT meets the diagnostic criteria for diabetes, the participant will be notified of the results
+==================================================
+
+q16) What actions are taken for 'recovery' of inactive participants?
+answer:  Answer: Information not found in protocol.
+context: make enrollment decisions for them in the future and lose the capacity to consent, this will be 
+documented and the participant will be excluded from further participation after losing the 
+capacity to consent. 
+• Staff persons will discuss with the participant who they have chosen as a surrogate or 
+who they would like to serve as a surrogate decision maker. 
+• Staff persons will ascertain that the following can serve as a surrogate:  first-degree
+
+the capacity to consent will be given the opportunity to decide in advance whether they do or do 
+not want a surrogate to make decisions for them to continue their participation in the study 
+should they lose capacity to consent in the future. This will be documented on the procedures 
+consent note in their research chart. For those participants who choose not to have a surrogate 
+make enrollment decisions for them in the future and lose the capacity to consent, this will be
+
+not be a criterion for exclusion.   
+ 
+5.3. 
+ Procedures for obtaining surrogate consent  
+ 
+The following surrogate consent issues will require approval by local IRBs. Some IRBs 
+may require different procedures for following participants who do not have the capacity to 
+consent. Each clinical center will follow procedures approved by its IRB. Participants who have 
+the capacity to consent will be given the opportunity to decide in advance whether they do or do
+
+metformin will remain in the metformin arm of the follow up study.  This will allow the longest 
+possible period of continued exposure to metformin to determine its longer-term effects.  
+Participants who are not eligible to continue study-supplied metformin are those who 
+cannot tolerate metformin, whose eGFR is below 30 mL/minute/1.73 m2, who reached the 
+fasting hyperglycemia (≥140 mg/dL) outcome during DPP, who have been taken off metformin
+
+DPPOS Phase 3 we will study the comparative effectiveness of the early initiation of metformin 
+during pre-diabetes vs treatment only after the development of T2DM on cancer incidence. 
+Potential mechanisms for metformin’s anticancer actions include a direct insulin-
+independent anti-tumor effect via activation of the cellular energy signal AMPK55,56 and 
+inhibition of mitochondrial oxidative phosphorylation57.  In addition, since insulin has mitogenic
+
+The CoC and the POP will monitor the performance of the clinical centers in retaining 
+participants.  The CoC will also prepare monthly reports on participant compliance with the 
+DPPOS protocol and participants on inactive follow-up. 
+ 
+9.4.1.3.  DPPOS Data Form Completion 
+ 
+The CoC will prepare periodic reports presenting tabulations for data completion and 
+quality.  Missing data, particularly on outcome variables, will effectively reduce the power of
+==================================================
+
+q17) Are participants who move away from a clinical center automatically excluded from the study?
+answer:  No, participants who move away from a clinical center are not automatically excluded from the study. However, if a remote visit is not feasible due to distance or physical limitations, the participant may be excluded from the study.
+context: Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+41
+ 
+The occurrence or presence of the following will constitute suspension of the scheduled 
+follow-up protocol:  Voluntary withdrawal by the participant, or a condition that, in the opinion 
+of the principal investigator, makes it unsafe for the participant to continue.  Efforts to return 
+participants to an active status will be made regularly, as appropriate. 
+ 
+6.1.4. Home or Telephone Visits
+
+Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+49
+7. 
+DEFINITION AND MANAGEMENT OF CONCOMITANT CONDITIONS 
+ 
+Clinical centers are neither sufficiently staffed nor funded to provide primary care or 
+ancillary care to participants involved in DPPOS.  The study recommends that participant health 
+issues be followed by a primary care provider. Treatments for concomitant conditions can
+
+Weight and blood pressure will be measured, and routine annual visit blood and urine samples 
+and safety specimens will be obtained at remote visits. Samples will be sent to the DPPOS 
+laboratory identified by only the participant study number and data will be returned to the 
+clinical center.  
+ 
+6.1.6. Retention Monitoring and Recovery of Inactive Participants 
+ 
+Retention of participants throughout the study period is key to both the power and
+
+make enrollment decisions for them in the future and lose the capacity to consent, this will be 
+documented and the participant will be excluded from further participation after losing the 
+capacity to consent. 
+• Staff persons will discuss with the participant who they have chosen as a surrogate or 
+who they would like to serve as a surrogate decision maker. 
+• Staff persons will ascertain that the following can serve as a surrogate:  first-degree
+
+completion of the protocol for each participant enrolled in the study; record participant data 
+related to the above; review and enter information from data forms using the data entry and 
+management system; and respond to edit queries from the Coordinating Center (CoC).  Each 
+clinical center has a Principal Investigator, a Program Coordinator, and additional staff to carry 
+out the protocol. 
+ 
+10.1.2. Coordinating Center
+
+not a specific home visit is feasible, taking into account time, cost and risk.   
+For those individuals who cannot travel and for whom a home visit is not possible, a 
+telephone visit may be conducted to collect updated health history, Serious Adverse Events, 
+CVD and cancer event information. 
+ 
+6.1.5. Remote Visits  
+ 
+For participants who have moved far away from any DPPOS clinic or have physical 
+limitations that make them unable to come to a DPPOS clinic, a remote visit might be performed
+==================================================
+
+q18) What is the purpose of the annual 'lifestyle check-up' for the original ILS group?
+answer:  Information not found in protocol.
+context: alternate informed consent processes will be put into place according to local practice and 
+institutional permission.  
+ 
+1.4. 
+ Study Interventions 
+ 
+Quarterly lifestyle group sessions were held for all participants through summer 2014. 
+These focused on lifestyle lectures as well as other topics of interest to participants with IGT or 
+diabetes.  Additional group lifestyle boost sessions were offered to the group originally assigned
+
+Lifestyle program with the same goals used in the DPP, but offered in a group setting, rather than 
+an individual setting.  In addition, during this period, the former ILS group was offered 
+continued ILS, albeit with a less frequent contact than during the DPP.  Placebo therapy was 
+stopped after individual unmasking took place between August and November 2001.  Metformin 
+was continued during this period, with participants and staff unmasked to treatment assignment. 
+ 
+ 
+Placebo 
+Metformin 
+Lifestyle
+
+• Approximately 1-3 groups were conducted during each Spring and Fall sequence, 
+as necessary at each clinic to accommodate the former ILS participants 
+Centers were encouraged to help participants who have been working primarily in 
+intensive, individual lifestyle treatment to make the transition to the group Boost sessions.
+
+take longer to observe than the initial ~15 years of the DPP/DPPOS Phases 1 & 2. Continuation 
+of the study in DPPOS Phase 3 presents the unique opportunity to evaluate the effects of MET 
+begun during pre-diabetes vs PLB or ILS on CVD, the effects of ILS on CVD, and associations 
+between T2DM prevention and CVD.  
+ 
+3.3. 
+DPPOS Phase 3 (2015-2025)  
+ 
+ 
+There is a strong rationale for continued follow-up of the DPP/DPPOS cohort. The
+
+session annually.  Participants in the original metformin group will continue to receive study 
+metformin per protocol.  Participants in the original ILS group will receive an additional 
+“lifestyle check-up” during their annual visit.  These interventions are summarized below: 
+ 
+DPP 
+DPPOS Phases 1 & 2 
+DPPOS Phase 3* 
+Intensive lifestyle (ILS) 
+Blinded Metformin + standard LS (MET) 
+Blinded Placebo + standard LS (PLB) 
+Troglitazone + standard LS (stopped in 1998) 
+(TRO) 
+Boost LS + HELP
+
+their original control and lifestyle intervention groups32. These findings, although intriguing, 
+must be viewed with skepticism because of the cluster (clinic-based) randomization, asymmetric 
+loss-to-follow-up, and differences in age and smoking patterns in the two intervention groups. 
+The recently completed Look AHEAD study, which used the DPP ILS in patients with ~ 8 years 
+T2DM duration, showed no significant effects on the primary CVD outcome over ~12 years of
+==================================================
+
+q19) Should metformin be used during pregnancy or breast-feeding?
+answer:  Information not found in protocol.
+context: intravaginal spermicide. 
+Women in the metformin treatment group will be asked to get immediate pregnancy 
+testing if their menstrual cycles are more than one week overdue or they otherwise suspect they 
+are pregnant.  If a woman plans to become pregnant or becomes pregnant, metformin will be 
+discontinued.  Following the pregnancy and nursing, metformin will be restarted with 
+consideration of titration from one 850 mg tablet to two tablets over four weeks.  See the
+
+shown to increase fertility in women with PCOS and some practitioners are investigating 
+potential benefits of continuing its use during gestation. In the absence of definitive evidence 
+indicating the safety of this practice, we will continue to recommend that during pregnancy and 
+for the duration of breast-feeding; metformin should be discontinued in DPPOS participants. 
+ 
+7.1.3. Outcomes Assessment Following Pregnancy
+
+Women in the metformin treatment group will be asked to get immediate pregnancy 
+testing if their menstrual cycles are more than one week overdue or they otherwise suspect they 
+are pregnant. 
+ 
+7.1.2. Use of Study Metformin During Pregnancy and Breast-feeding 
+ 
+Metformin is contra-indicated in pregnancy although data on adverse effects on the fetus 
+or the mother are scant.  The embryo toxic effects of biguanides have been evaluated in the in
+
+Female DPPOS participants of childbearing age who are fertile have been informed of 
+the potential risks to a pregnancy conceived while on metformin treatment.  These women will 
+be asked to practice reliable birth control including systemic hormones, intrauterine devices or 
+barrier methods (diaphragm, male or female condom, cervical cap) with concomitant 
+intravaginal spermicide. 
+ 
+7.1.1. Safety Monitoring 
+ 
+Women in the metformin treatment group will be asked to get immediate pregnancy
+
+and inactive follow-up status. 
+• Home and phone visit report; 
+Completed for outcome visits: serious adverse event assessment, interval history, current 
+concomitant prescription medications, and physical measures (as appropriate); and for the 
+metformin treatment participants, pregnancy questions, and medication compliance and 
+dispensing. 
+ 
+9.1.1. Other Forms 
+ 
+The following instruments were completed during DPPOS Phases 1 & 2, or will be
+==================================================
+
+q20) Does the protocol specify the use of SGLT2 inhibitors for participants with new-onset diabetes?
+answer:  Information not found in protocol.
+context: analyses, treatment assignment during the DPP will be considered a covariate. 
+The former troglitazone participants who continue in the DPPOS through visit year 6 will 
+be included in the "other" outcomes exploring the relationship between incident diabetes and 
+determinants of long-term complications of new-onset diabetes and IGT. No research data will 
+be collected in this group beginning with protocol version 3.0. 
+ 
+11.4. Monitoring and Timing of Analyses
+
+the clinical course of pre-diabetes and new onset diabetes. Since protocol version 3.4 only 
+covers participant visits through DPPOS study year 13 (ending October 2015), version 4.0 adds
+
+Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+12
+  
+2.3. 
+Other Objectives 
+ 
+Other research questions of the DPPOS Phase 3 include examining and comparing the 
+incidence and determinants of these health outcomes in participants with new-onset diabetes and 
+IGT, as well as assessing subgroups of participants in order to evaluate the effect of age, 
+race/ethnicity, and sex on health outcomes.
+
+Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+89
+68. Meigs JB, Mittleman MA, Nathan DM, et al. Hyperinsulinemia, 
+hyperglycemia, and impaired hemostasis: the Framingham Offspring Study. 
+JAMA. 2000;283(2):221-228. 
+69. Haffner SM, Stern MP, Hazuda HP, Mitchell BD, Patterson JK. 
+Cardiovascular risk factors in confirmed prediabetic individuals. Does the clock 
+for coronary heart disease start ticking before the onset of clinical diabetes?
+
+utility associated with delay or prevention of diabetes.  
+Other research objectives include examining and comparing the incidence and 
+determinants of these health outcomes in participants with new-onset diabetes and IGT, i.e. the 
+clinical course of dysglycemia, as well as assessing subgroups of participants in order to evaluate 
+the effect of race/ethnicity, age, and sex on health outcomes.  
+1.3. 
+ Study Population
+==================================================
+
+q21) What is the reporting timeframe for a death or life-threatening unexpected adverse event?
+answer:  Answer: Within 24 hours of clinic notification.
+context: Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+52
+8. 
+ADVERSE EVENT REPORTING  
+ 
+8.1. 
+Definitions 
+ 
+Only adverse events meeting the criteria for serious will be ascertained and reported to 
+the DSMB following FDA guidelines.  Serious adverse events have been defined to include any 
+adverse experience that results in any of the following outcomes: 
+* Death 
+* A life-threatening adverse experience 
+* Overdose to any medication
+
+of all life-threatening or fatal SUSARs (Serious Unexpected Suspected Adverse Reaction) within 
+seven calendar days; NIDDK must notify the FDA of all other SUSARs by 15 calendar days.  
+ 
+All serious adverse events will be reported to local IRBs by the clinic following 
+individual institutional guidelines.
+
+serious if, based on appropriate medical judgment, they jeopardize the 
+participant and would require medical or surgical intervention to prevent a 
+serious adverse event. 
+ 
+8.2. 
+Eliciting and Recording Serious Adverse Events 
+ 
+Reporting of serious adverse events will be accomplished by collecting information on 
+these adverse experiences during annual, semi-annual and interim follow-up visits. In order to 
+avoid bias in eliciting serious adverse events, these adverse events will be assessed using a
+
+Coordinating Center as they occur through routine data entry (within 2-3 days), with the 
+exception of death or other life threatening and unexpected adverse events.  All deaths or other 
+life threatening and unexpected adverse events, regardless of intervention assignment, must be 
+reported to the Coordinating Center within 24 hours of clinic notification. The Coordinating 
+Center will transmit the death report to the NIDDK Program Official.
+
+Center will transmit the death report to the NIDDK Program Official. 
+For participants assigned to the metformin treatment group, the NIH-NIDDK must 
+provide a written report of all serious and unexpected adverse events to the Food and Drug 
+Administration (FDA) in their annual IND report.  In addition, the NIDDK must notify the FDA 
+of all life-threatening or fatal SUSARs (Serious Unexpected Suspected Adverse Reaction) within
+==================================================
+
+q22) How is the confidentiality of patient data ensured at the Coordinating Center (CoC)?
+answer:  Answer: The Coordinating Center (CoC) ensures the confidentiality of patient data by maintaining a confidentiality policy that all staff members are required to sign. Additionally, the CoC uses a secure, web-based password protected data entry and management software corresponding to the data forms completed at a clinical center, and stores DPPOS computers in a safe location in a site that is locked when not attended.
+context: completion of the protocol for each participant enrolled in the study; record participant data 
+related to the above; review and enter information from data forms using the data entry and 
+management system; and respond to edit queries from the Coordinating Center (CoC).  Each 
+clinical center has a Principal Investigator, a Program Coordinator, and additional staff to carry 
+out the protocol. 
+ 
+10.1.2. Coordinating Center
+
+CoC’s server.  All new data are edited for unavailable, out of range, or inconsistent values.  
+Weekly audit programs produce more detailed edits across forms for an individual participant.  
+Summaries are prepared for reports to the Steering Committee and Protocol Oversight Program. 
+The CoC maintains confidentiality of patient data and emerging results per a confidentiality 
+policy, which every staff member is required to sign.
+
+A secure, web-based password protected data entry and management software 
+corresponding to the data forms completed at a clinical center is developed and maintained by 
+the staff at the Coordinating Center (CoC).  Reports are developed for use at the clinical centers 
+to assist clinical center staff in participant management, data collection and study management.  
+DPPOS computers are kept in a safe location in a site that is locked when not attended.
+
+out the protocol. 
+ 
+10.1.2. Coordinating Center 
+ 
+The Coordinating Center (CoC) is responsible for all aspects of biostatistical design, 
+analysis, data processing and study communications of the DPPOS.  In collaboration with the 
+Steering Committee, the CoC is responsible for editing and document processing of the protocol 
+and Manual of Operations and data collection forms development and testing.  The CoC provides
+
+Coordinating Center as they occur through routine data entry (within 2-3 days), with the 
+exception of death or other life threatening and unexpected adverse events.  All deaths or other 
+life threatening and unexpected adverse events, regardless of intervention assignment, must be 
+reported to the Coordinating Center within 24 hours of clinic notification. The Coordinating 
+Center will transmit the death report to the NIDDK Program Official.
+==================================================
+
+q23) What is the process for editing data forms once they are completed at a clinical center?
+answer:  Once completed at a clinical center, data forms undergo several processes before they are entered into the data management system. First, the clinic staff, directed by the program coordinator, review the completed data forms prior to data entry. Then, the forms are edited as they are entered into the data management system, and again via the central data management system at the CoC. Weekly audit programs also produce more detailed edits across forms for an individual participant. Summaries are prepared for reports to the Steering Committee and Protocol Oversight Program. The CoC maintains confidentiality of patient data and emerging results per a confidentiality policy, which every staff member is required to sign.
+context: The CoC creates the DPPOS data form templates.  At each clinic, the clinic staff, directed 
+by the program coordinator, reviews completed data forms prior to data entry.  Completed forms 
+are edited as they are entered into the data management system, and then again via the central 
+data management system at the CoC. 
+• Follow-up visit inventories: 
+Completed according to the schedule in Chapter 12: serious adverse event assessment,
+
+CoC’s server.  All new data are edited for unavailable, out of range, or inconsistent values.  
+Weekly audit programs produce more detailed edits across forms for an individual participant.  
+Summaries are prepared for reports to the Steering Committee and Protocol Oversight Program. 
+The CoC maintains confidentiality of patient data and emerging results per a confidentiality 
+policy, which every staff member is required to sign.
+
+storage facility.          
+                                                          
+9.3. 
+Centralized Data Management System 
+ 
+ 
+Data entered via the web-based electronic data collection system is securely transmitted 
+and stored on the CoC’s server.  Data are converted to SAS data sets after being uploaded to the 
+CoC’s server.  All new data are edited for unavailable, out of range, or inconsistent values.
+
+A secure, web-based password protected data entry and management software 
+corresponding to the data forms completed at a clinical center is developed and maintained by 
+the staff at the Coordinating Center (CoC).  Reports are developed for use at the clinical centers 
+to assist clinical center staff in participant management, data collection and study management.  
+DPPOS computers are kept in a safe location in a site that is locked when not attended.
+
+out the protocol. 
+ 
+10.1.2. Coordinating Center 
+ 
+The Coordinating Center (CoC) is responsible for all aspects of biostatistical design, 
+analysis, data processing and study communications of the DPPOS.  In collaboration with the 
+Steering Committee, the CoC is responsible for editing and document processing of the protocol 
+and Manual of Operations and data collection forms development and testing.  The CoC provides
+==================================================
+
+q24) What statistical principle is used for primary and secondary outcome analyses?
+answer:  Information not found in protocol.
+context: outcome results, or shed light on how the interventions affect secondary outcomes and their risk 
+factors.  Secondary outcomes may be assessed in the study population as a whole or in subsets, 
+depending on feasibility, cost and the likelihood of deriving significant results from a subset.  All 
+biochemical laboratory outcomes will be measured at the DPPOS Central Biochemistry 
+Laboratory.  Clinical center staff and study participants are notified if a secondary outcome result
+
+(CMS) database for the purpose of determining diagnosis codes and dates for health care 
+utilization to supplement medical records. 
+ 
+4.2. 
+ Other Secondary Outcomes 
+ 
+The DPPOS secondary outcomes were selected for their importance to the clinical and 
+scientific interpretation of the study.  They might help explain the mechanism of the primary 
+outcome results, or shed light on how the interventions affect secondary outcomes and their risk
+
+quality.  Missing data, particularly on outcome variables, will effectively reduce the power of 
+analyses.  In fact, systematic patterns of missing data could bias the study results.  Therefore, 
+many of the procedural details outlined in the Manual of Operations are designed to minimize 
+the amount of missing data. 
+ 
+9.4.1.4.  Other Reports 
+ 
+Other reports will be developed, as needed, based on requests from the Steering 
+Committee and associated subcommittees. 
+ 
+9.5. 
+ Interim Statistical Reports
+
+Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+60
+* Clinical importance and scientific validity 
+* Compatibility of goals with those of DPPOS 
+* Amount of burden on study subjects and staff 
+ 
+Ancillary studies receive a primary, secondary and statistical review.  An outside 
+reviewer may be used if there is no expertise within the study in a specific area.  Reviews are
+
+limited exposure to that intervention, owing to the premature termination of the troglitazone arm, 
+and were not included in the primary DPP outcome analyses, they were not included in the 
+primary DPPOS analyses. 
+ 
+11.3.2. Composite Outcomes of Microangiopathic and Neuropathic Disease 
+ 
+The analysis of the composite primary microangiopathic outcome at year 11 for DPPOS 
+Phase 2, and composite secondary cardiovascular disease outcome was performed in an intent-
+
+microangiopathy outcome using the global test1  The global test, which gives the component 
+outcomes equal weight, is interpreted as testing for a consistent difference between groups across 
+the component outcomes. 
+The primary analysis for DPPOS Phase 3 will focus on the effects of metformin 
+compared with placebo on the development of a number of diabetes related complications, 
+including cancer and MACE. The primary and secondary outcome analyses will follow the
+==================================================
+
+q25) How is the study powered to detect a hazard risk reduction in MACE?
+answer:  The study is powered to detect a hazard risk reduction in MACE by requiring 145 placebo events to detect a 30% hazard risk reduction in the primary comparison of metformin and placebo with 85% power and a 2-sided significance level of 0.05 using a log-rank test.
+context: after 5 and 10 additional years of DPPOS Phase 3 assuming a 1.04% loss to follow-up per year. 
+To detect a 30% hazard risk reduction in MACE incidence in the primary comparison of 
+metformin and placebo with 85% power and a 2-sided significance level of 0.05 using a log-rank 
+test, we require 145 placebo events.   With the expected 156 events in the placebo group by 
+2025, the study will have 89% power to detect a 30% hazard risk reduction. Other important
+
+test with 85% power and 2-sided significance level of 0.05.  Assuming an increasing annual 
+incidence rate of 1.86% by 2020 and an annual loss to follow-up of 1.04%, the projected 199 
+cancer events in the placebo group will provide 89% power to detect a 28% hazard risk reduction 
+at the end of the first 5-year period.  For MACE, we estimate an age related 2.1 fold increase in 
+annual incidence rate in the next 10 years. This conservative increase is used to project events in
+
+170 events in the placebo group using a log-rank test.  Assuming an increasing annual incidence 
+rate of 1.86% by 2020 and an annual loss to follow-up of 1.04%, the projected 199 events in the 
+placebo group will provide 89% power to detect a 28% hazard risk reduction at the end of the 
+first 5-year period.  Secondary analysis of the cancer incidence between metformin and placebo 
+separately by men and women will be assessed in the second 5-years.  
+ 
+11.2.4. Power for CVD (MACE) Development
+
+than 2%/year.   
+For the comparison of lifestyle vs. control, assuming a type 1 error .025 and a 2-sided 
+test, the study will have 84% power to detect a 35% reduction in the hazard rate for development 
+of diabetes and 94% power to detect a 40% reduction.  For the comparison of metformin vs. 
+control (type 1 error .025, 2 sided test), the study will have 82% power to detect a 35% reduction 
+in hazards.
+
+the placebo participants of 116 and 156 after 5 and 10 additional years of DPPOS Phase 3 
+assuming a 1.04% loss to follow-up per year. To detect a 30% hazard risk reduction in MACE 
+incidence in the primary comparison of metformin and placebo with 85% power and a 2-sided 
+significance level of 0.05 using a log-rank test, we require 145 placebo events. With the expected 
+156 events in the placebo group by 2025, the study will have 89% power to detect a 30% hazard
+==================================================
+
+q26) What significance level is used for the primary outcome analysis in DPPOS Phase 1?
+answer:  Answer: The primary outcome analysis in DPPOS Phase 1 uses a significance level of 0.025.
+context: The duration of follow-up in the first five years of DPPOS was extended by one year 
+from 5 to 6 years, by NIDDK.  Power calculations were modified based on actual enrollment, 
+and to correspond to the reordering of outcome measures.   
+ 
+The following assumptions were used to make revised estimates of the power of the 
+DPPOS for the Phase 1 primary outcome, development of diabetes: 
+* The study will enroll approximately 900 participants per treatment group
+
+included in the group to which s/he was randomly assigned, regardless of compliance with study 
+treatment. Since the participants originally assigned to troglitazone only had a limited exposure 
+to that intervention, owing to the premature termination of the troglitazone arm, were not 
+included in the primary DPP outcome analyses, and are no longer followed in DPPOS, they will 
+not be included in the primary DPPOS Phase 3 analyses.
+
+* The study will enroll approximately 900 participants per treatment group 
+* The Phase 1 primary outcome is time to the confirmed development of diabetes assessed 
+from DPP randomization through DPPOS Phase 1. 
+* Type I error rate of 0.05 (two-sided) with a Bonferroni adjustment for two pair-wise 
+comparisons of the intervention groups vs. “control”. 
+* Control (formerly placebo) group’s time to the development of diabetes is exponentially
+
+number of participants who had not developed diabetes at DPP study end was 870 in the 
+metformin group, 951 in the ILS, and 809 in the placebo group.  The primary outcome analysis 
+used an overall significance level of α = 0.05 (2-sided). Two pair-wise comparisons between the 
+intervention groups and the former placebo group, set at the = 0.025 level, were performed if the 
+overall comparison was statistically significant. 
+The analysis compared the treatment groups vs. the former placebo group on DPP
+
+For the cancer outcome for DPPOS Phase 3, we estimated the number of cancer cases 
+through the first 5 years of DPPOS Phase 3 using incidence rates based on both SEER100 and 
+current DPPOS data.  To detect 28% risk reduction in cancer for the primary comparison of 
+metformin vs placebo with 85% power for a 2-sided significance level of 0.05, the study requires 
+170 events in the placebo group using a log-rank test.  Assuming an increasing annual incidence
+
+limited exposure to that intervention, owing to the premature termination of the troglitazone arm, 
+and were not included in the primary DPP outcome analyses, they were not included in the 
+primary DPPOS analyses. 
+ 
+11.3.2. Composite Outcomes of Microangiopathic and Neuropathic Disease 
+ 
+The analysis of the composite primary microangiopathic outcome at year 11 for DPPOS 
+Phase 2, and composite secondary cardiovascular disease outcome was performed in an intent-
+==================================================
+
+q27) When did the DPPOS Phase 3 follow-up period officially commence?
+answer:  The DPPOS Phase 3 follow-up period officially commenced on February 1, 2015.
+context: confirmed disease.  Participants who died or prematurely discontinue their follow-up visits prior 
+to developing the event will be “censored” as of their last follow-up visit – hence, participants 
+who did not enroll in DPPOS will be censored as of their last contact during DPP. Separate
+
+not be included in the primary DPPOS Phase 3 analyses.  
+The primary comparison will focus on the metformin vs. the placebo group.  The time to 
+event analysis uses the date of the first occurrence of the outcomes.  Participants will be 
+considered “administratively censored” if they complete the full duration of follow-up without 
+confirmed disease.  Participants who died or prematurely discontinue their follow-up visits prior
+
+beginning with protocol version 3.0, all participants will continue their scheduled follow-up 
+visits for the duration of DPPOS regardless of their level of compliance with the assigned 
+treatment.  Outcome and safety assessments will be conducted according to the schedule in 
+section 12. 
+Beginning in study year 13 and continuing in DPPOS Phase 3, in-person annual visits 
+will continue with reduced intensity of outcome measurements according to the outcomes
+
+Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+78
+Phase 3 
+February 1, 2015 – October 2020 
+Participant follow-up 
+ 
+February 1, 2015 – January 2016 
+Bridge period funding awarded 
+ 
+July 2017 – October 2018 
+Year 16 major visit 
+ 
+February 1, 2019 – January 31, 2021 
+DPPOS Phase 3 (first 5 years) analysis 
+ 
+May 2020 
+Submit funding renewal
+
+preventing diabetes over 3 years, there would be no compelling reason to stop DPPOS for having 
+demonstrated further benefit.  The assessment of the composite microangiopathy occurred after 
+the year 11 visits.  Therefore, we did not implement a formal statistical monitoring plan for either 
+of these outcomes in DPPOS.  The DSMB reviewed two interim analyses of time to 
+macrovascular event for safety during DPPOS Phase 2. 
+Since the cohort size for DPPOS Phase 3 is fixed, power is driven by the number of
+
+take longer to observe than the initial ~15 years of the DPP/DPPOS Phases 1 & 2. Continuation 
+of the study in DPPOS Phase 3 presents the unique opportunity to evaluate the effects of MET 
+begun during pre-diabetes vs PLB or ILS on CVD, the effects of ILS on CVD, and associations 
+between T2DM prevention and CVD.  
+ 
+3.3. 
+DPPOS Phase 3 (2015-2025)  
+ 
+ 
+There is a strong rationale for continued follow-up of the DPP/DPPOS cohort. The
+==================================================
+
+q28) What are the common side effects associated with Metformin mentioned in the protocol?
+answer:  Answer: The common side effects associated with metformin mentioned in the protocol are gastrointestinal, including diarrhea, nausea, metallic taste, abdominal bloating, flatulence or anorexia.
+context: plan should be based on clinical judgment taking into account the amount of time off metformin 
+and the individual’s history of side effects.   
+ 
+6.4.4. Safety Monitoring and Measures to Reduce and Manage Potentially Drug related 
+side Effects
+
+levels will be measured, in participants taking study metformin. Women in the metformin 
+treatment group will be asked to get immediate pregnancy testing if their menstrual cycles are 
+more than one week overdue or they otherwise suspect they are pregnant.   
+B. 
+Potential Non-Gastrointestinal Side Effects 
+Potential non-gastrointestinal side effects include, but are not limited to: headache, mild 
+edema, leg cramps, arthralgia, myalgias, dizziness, mild rashes, and dysmenorrhea.  If non-
+
+edema, leg cramps, arthralgia, myalgias, dizziness, mild rashes, and dysmenorrhea.  If non-
+gastrointestinal side effects considered likely to be due to metformin occur and require cessation 
+of metformin, it will be stopped for four weeks.  If the non-gastrointestinal symptoms disappear, 
+a second attempt to introduce medications is made after the four weeks.  If symptoms re-occur, 
+the metformin will again be discontinued.  Clinical judgment should be used to decide
+
+with impaired glucose tolerance, reducing the development of diabetes by 31%. 
+The most common side effects associated with metformin are gastrointestinal.  As many 
+as 30% of persons report diarrhea, nausea, metallic taste, abdominal bloating, flatulence or 
+anorexia.  These symptoms are generally transient, resolve spontaneously and can be avoided by 
+gradual escalation of dosage.  Metformin is not associated with hypoglycemia unless used in
+
+Women in the metformin treatment group will be asked to get immediate pregnancy 
+testing if their menstrual cycles are more than one week overdue or they otherwise suspect they 
+are pregnant. 
+ 
+7.1.2. Use of Study Metformin During Pregnancy and Breast-feeding 
+ 
+Metformin is contra-indicated in pregnancy although data on adverse effects on the fetus 
+or the mother are scant.  The embryo toxic effects of biguanides have been evaluated in the in
+
+costs associated with the DPP interventions that delay diabetes and, presumably, diabetes-
+associated complications, would offset the costs of the interventions and therefore favorably 
+affect the cost-effectiveness and cost-utility ratios. 
+In DPPOS Phase 3 we will be able to extend these analyses to the effects of prevention 
+of diabetes-related complications, incorporating the costs of screening and long-term treatment in
+==================================================
+
+q29) When is Metformin treatment permanently discontinued due to kidney function?
+answer:  Answer: Metformin will be discontinued permanently when the participant's estimated glomerular filtration rate (eGFR) is less than 30 milliliters per minute per 1.73 square meters (mL/min/1.73 m2).
+context: Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+47
+metformin will be discontinued permanently.  For participants who have an eGFR ≥30 and <45 
+mL/minute/1.73 m2, the local PI can elect to continue metformin or stop it based on clinical 
+judgment that takes into account the cause of renal dysfunction, anticipated clinical course and 
+other factors. An interim serum creatinine measurement and calculated eGFR can be requested
+
+abdominal pain or vomiting becomes severe enough to cause dehydration or volume depletion, 
+metformin will be discontinued immediately and the participant will be evaluated and treated 
+appropriately.   
+E. 
+Renal Insufficiency 
+Serum creatinine safety measurements will be made yearly and eGFR calculated in 
+participants in the metformin arm who are taking study metformin.  Metformin is not known to 
+cause renal insufficiency.  However, it is associated with an increased risk for lactic acidosis if
+
+eGFR is in the acceptable range (>30 mL/minute/1.73 m2). If the clinic is notified of a scheduled 
+outpatient surgical procedure, the participant will be instructed to discontinue metformin the day 
+prior to the procedure.   
+L. 
+Dermatological Reactions 
+In the event of major dermatological reactions such as generalized urticaria, bullous 
+rashes, exfoliative dermatitis or Stevens Johnson Syndrome, medication will be discontinued
+
+used in persons with reduced kidney function. Metformin is contraindicated in those with eGFR 
+<30 mL/minute/1.73 m2, and should be used with caution and reviewed in those with eGFR ≥30 
+and <45 mL/minute/1.73 m2.  If eGFR levels are <30 mL/minute/1.73 m2, study-supplied
+
+are taking metformin and that metformin needs to be discontinued prior to any radiological 
+studies involving contrast dyes. 
+I. 
+Lactic Acidosis 
+Metformin may rarely be associated with the development of lactic acidosis, defined as a 
+metabolic acidosis with lactate ≥ 5.0 mM.  If hospitalization or an unexplained metabolic 
+acidosis occurs, metformin will be discontinued immediately and not restarted.  The participant 
+will be evaluated and treated appropriately. 
+J.
+
+Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+40
+6. 
+PARTICIPANT MANAGEMENT PROTOCOLS 
+ 
+Each participant continues follow-up according to his or her original DPP randomized 
+assignment.  Metformin will continue to be provided to the original Metformin participants 
+throughout DPPOS. The HELP program will be held once annually and Boost programs were 
+discontinued beginning with DPPOS year 13. 
+ 
+6.1. 
+ Schedule of Follow-up Visits
+==================================================
+
+q30) What is the dosage of metformin provided to participants originally assigned to that group?
+answer:  Answer: Participants originally assigned to the metformin group received 850 mg twice per day.
+context: metformin treatment, provide the opportunity to examine and compare the long-term effects of 
+these interventions on an intention-to-treat basis. 
+ 
+5.5. 
+Masking 
+ 
+There will be no masking of participants to OGTT or lipid results, other than in the case 
+where confirmation of a positive test for diabetes is pending (or during a random repeat fasting 
+glucose or OGTT). Metformin is dispensed as open label.
+
+administered on the day prior to administration of contrast dyes.  Serum creatinine level will be 
+checked 48 hours or more after dye administration. Metformin will be re-started if the eGFR is in 
+the acceptable range (≥30 mL/minute/1.73 m2).  A wallet ID will be given to all participants and 
+a warning letter will be sent to all primary care providers to alert them to the fact that participants 
+are taking metformin and that metformin needs to be discontinued prior to any radiological
+
+were important secondary outcomes.  The original study design included four treatment arms: 
+intensive lifestyle (ILS) intervention, troglitazone (TRO) treatment (400 mg/day), metformin 
+(MET) treatment (850 mg twice per day), or placebo (PLB).  All medication-treated subjects 
+received identical appearing coded medications, and treatment was double blind.  Troglitazone 
+treatment was stopped in June 1998, owing to the accumulating evidence that troglitazone was
+
+diabetes.  Additional group lifestyle boost sessions were offered to the group originally assigned 
+to intensive lifestyle intervention through spring 2014.  During DPPOS Phase 3, an annual 
+lifestyle check-up will be offered to the original lifestyle group. Open label metformin therapy 
+(850 mg twice per day) will continue to be provided to the participants originally assigned to 
+metformin.  An annual group lifestyle session will be held for all participants.
+
+Version 4.4     May 22, 2019 
+The Biostatistics Center, George Washington University  
+Rockville, Maryland 
+ 
+5 
+At the end of the DPP all participants were offered a lifestyle modification program that 
+incorporated the features of the original intensive lifestyle intervention, but was implemented in 
+group sessions during a 4-6 month period. The participants originally assigned to metformin 
+continued open-label metformin therapy, and those assigned to placebo-treatment stopped the 
+placebo.
+
+following characteristics: racial/ethnic origin, sex, and age (<45, 45-<60, 60+). 
+The primary analyses that focused on the intention-to-treat assignment during DPP 
+included all participants in the original DPP placebo, lifestyle and metformin intervention groups 
+who enrolled in DPPOS. Since the participants originally assigned to troglitazone only had a 
+limited exposure to that intervention, owing to the premature termination of the troglitazone arm,
+==================================================
